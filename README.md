@@ -1,6 +1,6 @@
 # hello-world
-just another repository
-I am a librarian and interested in the potential of library carpentries to enrich the learning experience. I look forward to a time when I am more proficient in the material.
+I am interested in the potential of library carpentries to enrich the learning experience. 
+I look forward to a time when I am more proficient in the material.
 
 In reviewing the lesson for clustering in Open Refine, I noticed that one of the objectives could be reworded for greater clarity.
 
